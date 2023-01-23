@@ -11,10 +11,14 @@ To write a python program to find the Eigenvalues and Eigen Vectors
 
 ## Algorithm:
 
-### Step1 :import numpy package
-### Step 2:get the input matrix 
-### Step 3: Using the np.linalg.eig(),  we get two results (first is eigenvalue and second is eigenvector) of the given matrix.
-### Step 4:end the program
+### Step1:
+import numpy package
+### Step 2:
+get the input matrix 
+### Step 3: 
+Using the np.linalg.eig(),  we get two results (first is eigenvalue and second is eigenvector) of the given matrix.
+### Step 4:
+end the program
 
 ## Program:
 ```python
@@ -28,8 +32,8 @@ print("Eigen values are {} and Eigen Vectors are {}".format(values,vectors))
 ```
 
 ## Output:
-![](./eigen.png)
 
+![](./eigenvec.png)
 ## Result:
 
 Thus the Eigenvalue and Eigenvector is successfully solved using python program
